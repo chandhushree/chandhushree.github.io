@@ -1,2 +1,2 @@
-# chandhushree-.github.io
+# chandhushree.github.io
 my personal portfolio  website
